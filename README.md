@@ -1,4 +1,4 @@
-## Hey! I'm known as `platocrat` online and I write code. 
+## Hey! I'm known as platocrat online and I write code. 
 
 
 <!--

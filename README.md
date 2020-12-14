@@ -1,4 +1,4 @@
-## Hey! I'm known as Platocrat online and I write code. 
+## Hey! I'm known as `platocrat` online and I write code. 
 
 
 <!--
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on the `supply_chain_simulator` for my uni to simulate supply chain operations of commodities on Ethereum! 
-- 🌱 I’m currently learning Rust and TypeScript (+ React), and building a **test** routine with `react-testing-library` + `cypress` + `jest` to test all the code I write.
+- 🔭 I’m currently working on the [`supply_chain_simulator`](https://github.com/orangewit3/supply_chain_simulator) for my uni to simulate supply chain operations of commodities on Ethereum! 
+- 🌱 I’m currently learning Rust 🦀 and TypeScript (+ React), and building a **test** routine with `react-testing-library` + `cypress` + `jest` to test all the code I write.
 - ⚡ Fun fact: In a 2 year haitus from uni, I dropped out to devote my life to becoming a music producer (i.e. I have quite a lot of experience in making radio ready 🎼 🎶 in Ableton 💽).

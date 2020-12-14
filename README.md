@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hey! I'm known as Platocrat online and I write code. 
+
 
 <!--
 **platocrat/platocrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on the `supply_chain_simulator` for my uni to simulate supply chain operations of commodities on Ethereum! 
+- 🌱 I’m currently learning Rust and TypeScript (+ React), and building a **test** routine with `react-testing-library` + `cypress` + `jest` to test all the code I write.
+- ⚡ Fun fact: In a 2 year haitus from uni, I dropped out to devote my life to becoming a music producer (i.e. I have quite a lot of experience in making radio ready 🎼 🎶 in Ableton 💽).

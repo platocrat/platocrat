@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 - Rust 🦀,
 - WebAssembly, 
 - TypeScript,
-- Working to build a **test** routine with `react-testing-library` + `cypress` + `jest` to test all the code I write, and
 - Ethereum L2 full-stack development 

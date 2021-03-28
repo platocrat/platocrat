@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 ⏪ I’ve previously worked on:
 - [`supply_chain_simulator`](https://github.com/orangewit3/supply_chain_simulator): a project in collab with University of Illinois at Urbana-Champaign to simulate supply chain operations of commodities on Ethereum
 
-🌱 I’m currently learning:
-- Rust 🦀,
-- WebAssembly, 
-- TypeScript,
-- Ethereum L2 full-stack development 
+🌱 I’m currently trying to master:
+- Optimistic Ethereum,
+- TypeScript/JavaSript,
+- Ethereum smart contract testing,
+- Ethereum L2 full-stack development,
+- Creating 🐐 developer documentation

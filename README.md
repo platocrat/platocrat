@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 - TypeScript/JavaSript,
 - Ethereum smart contract testing,
 - Ethereum L2 full-stack development,
-- Creating 🐐 developer documentation

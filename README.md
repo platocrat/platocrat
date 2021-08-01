@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently trying to master:
 - Optimistic Ethereum,
-- TypeScript/JavaSript,
+- TypeScript/JavaScript,
 - Ethereum smart contract testing,
 - Ethereum L2 full-stack development,
